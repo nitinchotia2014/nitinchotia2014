@@ -2,7 +2,7 @@
 
 >*I am from Pune, India*
 
-😄 I have 5+ years of experience in building Web and Mobile Applications using Angular 2+, React Native, React, TypeScript, JavaScript, HTML, CSS, JQuery, Angular Material, Firebase and Node.
+😄 I have 6+ years of experience in building Web and Mobile Applications using Angular 2+, React Native, React, TypeScript, JavaScript, HTML, CSS, JQuery, Angular Material, Firebase and Node.
 
 1. Advanced know-how of HTML5 and CSS3.
 2. Work experience in the implementation of factory design principles.
@@ -13,7 +13,7 @@
 7. **Values** - Honesty, Flexibility, Dedication.
 8. **Attitude** - Constant learning, responsibility, and belief in the capability of the team.
 
-- 🔭 I’m currently working on building my portfolio website and making a wrapper in Angular for a js library
+- 🔭 I’m currently working on react three fiber and blender
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Angular project
 - 📫 How to reach me: nitinchotia2014@gmail.com
